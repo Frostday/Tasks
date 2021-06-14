@@ -1,5 +1,5 @@
-# Spoken English to Written English Conversion
-This Python module uses REST API to convert spoken English in text format to written English. For example, "five dollars" should be converted to $5 and "Triple A" should be written to "AAA" respectively.
+# Classes-CLI
+A command line interface to showcase functionality of classes. Used pickle to store information.
 
 # Installation and Setup
 1. Fork the repo and clone it
