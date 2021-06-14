@@ -1,0 +1,3 @@
+pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+cloudpickle==1.2.2
+click==7.1.2
